@@ -5,6 +5,7 @@ Este repositorio contiene varios proyectos de redes neuronales implementados uti
 # **Lista de Proyectos**
 
  - [Reg keras concrete](https://github.com/williamCastro32/Neural_Networks/tree/main/Reg_keras_Concrete)
+ - [MNIST classification keras](https://github.com/williamCastro32/Neural_Networks/tree/main/mnist_classification_keras)
 
 Clona este repositorio en tu máquina local.
 Navega a la carpeta del proyecto que te interese.
